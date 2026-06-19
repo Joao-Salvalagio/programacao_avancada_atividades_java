@@ -177,7 +177,7 @@ public class Main {
         filaObserver.exibirFila();
 
         System.out.println("╔══════════════════════════════════════════════════╗");
-        System.out.println("║            FLUXO INTEGRADO CONCLUÍDO COM SUCESSO  ║");
+        System.out.println("║      FLUXO INTEGRADO CONCLUÍDO COM SUCESSO       ║");
         System.out.println("╚══════════════════════════════════════════════════╝");
     }
 
